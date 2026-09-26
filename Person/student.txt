@@ -1,0 +1,4 @@
+1, tohaa
+2, tiash
+3, khan
+101, Toha
